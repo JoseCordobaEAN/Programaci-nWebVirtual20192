@@ -1,4 +1,4 @@
 var miArea = document.getElementById("mi-area");
-miArea.innerHTML = 'Jose Cordoba'
+miArea.innerHTML = 'Manuel Castillo';
 
 //alert('Hola JS');
